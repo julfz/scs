@@ -1,4 +1,4 @@
-module github.com/alexedwards/scs/libsqlstore
+module github.com/julfz/scs/libsqlstore
 
 go 1.12
 
